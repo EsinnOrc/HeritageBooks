@@ -56,6 +56,7 @@ npx json-server  datas/books.json
 
 ### 4️⃣ Projeyi Tarayıcıda Açın
 
+https://heritage-books.vercel.app/
 **index.html** dosyasını doğrudan tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
 
@@ -68,5 +69,4 @@ npx json-server  datas/books.json
 4. **Kitap Ekleme:** "Add to Book +" butonuna basarak yeni bir kitap ekleyebilirsiniz.
 5. **Kitap Güncelleme:** Mevcut kitabı güncellemek için ilgili kitabın düzenleme butonunu kullanabilirsiniz.
 6. **Kitap Silme:** Mevcut kitabı silmek için ilgili kitabın silme butonunu kullanabilirsiniz.
-
 
