@@ -1,4 +1,8 @@
-# 📚 HeritageBooks
+# Turkcell Gelecegi Yazanlar Vize Ödevi
+
+![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
+
+## 📚 HeritageBooks
 
 HeritageBooks, klasik ve değerli kitapların keşfedilmesini sağlayan bir web sitesidir. Kullanıcılar, yazar ve kategori bazlı filtreleme yaparak geniş bir koleksiyona göz atabilirler. Bu proje, **Turkcell Geleceği Yazanlar** kapsamında bir ödev olarak geliştirilmiştir.
 
