@@ -6,7 +6,7 @@
 
 HeritageBooks, klasik ve değerli kitapların keşfedilmesini sağlayan bir web sitesidir. Kullanıcılar, yazar ve kategori bazlı filtreleme yaparak geniş bir koleksiyona göz atabilirler. Bu proje, **Turkcell Geleceği Yazanlar** kapsamında bir ödev olarak geliştirilmiştir.
 
----
+
 
 ## 🚀 Proje Özellikleri
 
@@ -16,8 +16,8 @@ HeritageBooks, klasik ve değerli kitapların keşfedilmesini sağlayan bir web 
 - **Arama Fonksiyonu:** Kullanıcılar, kitap ismi ve yazar ismine göre arama yapabilir.
 - **Sıralama Seçenekleri:** Kitaplar, alfabetik olarak veya yayın yılına göre sıralanabilir.
   sunulmaktadır.
+  
 
----
 
 ## 🛠 Kullanılan Teknolojiler
 
@@ -26,7 +26,7 @@ HeritageBooks, klasik ve değerli kitapların keşfedilmesini sağlayan bir web 
 - **Bootstrap 5:** Responsive tasarım ve bileşenler için entegre edilmiştir.
 - **JSON Server:** Sahte bir API servisi oluşturularak veri yönetimi sağlanmıştır.
 
----
+
 
 ## 📥 Kurulum
 
@@ -51,14 +51,14 @@ npm run sass
 Veri tabanı olarak JSON Server'ı kullanıyoruz. Aşağıdaki komutu çalıştırarak başlatabilirsiniz:
 
 ```bash
-npx json-server --watch db.json --port 3001
+npx json-server  datas/books.json 
 ```
 
 ### 4️⃣ Projeyi Tarayıcıda Açın
 
 **index.html** dosyasını doğrudan tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
----
+
 
 ## 📌 Kullanım
 
@@ -69,4 +69,4 @@ npx json-server --watch db.json --port 3001
 5. **Kitap Güncelleme:** Mevcut kitabı güncellemek için ilgili kitabın düzenleme butonunu kullanabilirsiniz.
 6. **Kitap Silme:** Mevcut kitabı silmek için ilgili kitabın silme butonunu kullanabilirsiniz.
 
----
+
