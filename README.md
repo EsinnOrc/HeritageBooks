@@ -56,8 +56,8 @@ npx json-server  datas/books.json
 
 ### 4️⃣ Projeyi Tarayıcıda Açın
 
-https://heritage-books.vercel.app/
-**index.html** dosyasını doğrudan tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
+ https://heritage-books.vercel.app/
+ **index.html** dosyasını doğrudan tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
 
 
